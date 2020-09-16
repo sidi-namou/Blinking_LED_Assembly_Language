@@ -1,0 +1,4 @@
+load STM32L152RETx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\33766\Desktop\Itekube_Projects\ledAssembly\RTE\Device\STM32L152RETx\" 
